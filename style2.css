@@ -64,3 +64,8 @@ overflow-wrap: break-word;
         float: left;
 
     }
+    .background-img-main {
+        background-image: url(https://wallpapers.com/images/hd/stars-glowing-in-universe-d6i8t4m6g9b96s2n.webp);
+        width: 100%;
+        max-height: 100%;
+    }
